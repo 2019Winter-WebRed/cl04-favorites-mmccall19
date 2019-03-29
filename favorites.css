@@ -1,0 +1,25 @@
+/*
+*Mackenzie
+*March 2019
+*Cool Cupz using images and figures
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Boddy attributes here */
+
+body {
+
+}
+
+img { width: 200px; height: 200px;}
+
+#coffeecup { width: 200px; height: 250px; float: right; }
+#wineglass { width: 150px; height: 200px; }
+#measuringcup {width: 200px; height: 150px; }
+
+
